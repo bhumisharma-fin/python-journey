@@ -105,3 +105,4 @@ ROI = (gain - cost) / cost * 100
 
 Happy Learning!
 - (@rahulyadavhub)
+- Always close file handles
