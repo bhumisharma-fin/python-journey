@@ -104,4 +104,4 @@ CAGR = (end/start)^(1/years) - 1
 ROI = (gain - cost) / cost * 100
 
 Happy Learning!
-- Nick (@rahulyadavhub)
+- (@rahulyadavhub)
